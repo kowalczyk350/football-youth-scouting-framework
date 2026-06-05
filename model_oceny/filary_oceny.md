@@ -97,3 +97,36 @@ Technika użytkowa — szczególnie pod presją i przy dużej intensywności —
 Na wyższym poziomie samo przygotowanie motoryczne często nie wystarcza.
 
 Zawodnicy, którzy rozumieją przestrzeń i potrafią odpowiednio poruszać się bez piłki, szybciej adaptują się do piłki seniorskiej oraz lepiej funkcjonują w strukturze taktycznej zespołu.
+---
+
+## 4. Podejmowanie decyzji
+
+### Na co zwracać uwagę?
+
+- wybór rozwiązania pod presją,
+- szybkość podejmowania decyzji,
+- rozpoznawanie przewagi lub przeciążenia,
+- wybór momentu dryblingu lub podania,
+- zachowanie w strefie finalizacji,
+- umiejętność utrzymania piłki w trudnych sytuacjach.
+
+### Pytania scoutingowe
+
+- Czy zawodnik podejmuje właściwe decyzje pod presją?
+- Czy rozumie moment przyspieszenia gry?
+- Czy wie kiedy grać prosto, a kiedy ryzykować?
+- Czy potrafi znaleźć rozwiązanie w sytuacji 1x2 lub w małej przestrzeni?
+
+### Sygnały ostrzegawcze
+
+- wymuszanie gry 1x1,
+- powtarzalne straty piłki,
+- granie głową w dół,
+- brak zmiany decyzji po ocenie sytuacji,
+- słabe zachowanie w strefie 3.
+
+### Dlaczego to ważne?
+
+W piłce seniorskiej czas na decyzję jest bardzo ograniczony.
+
+Zawodnicy, którzy szybciej analizują sytuację i wybierają właściwe rozwiązania, znacznie łatwiej adaptują się do wyższego poziomu gry.
