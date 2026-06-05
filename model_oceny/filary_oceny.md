@@ -62,3 +62,38 @@ Na wyższym poziomie gry czas i przestrzeń są ograniczone, dlatego umiejętno�
 Na wyższym poziomie gry zawodnik ma mniej czasu i mniej przestrzeni.
 
 Technika użytkowa — szczególnie pod presją i przy dużej intensywności — często decyduje o możliwości przejścia zawodnika do piłki seniorskiej.
+---
+
+## 3. Poruszanie się po boisku
+
+### Na co zwracać uwagę?
+
+- poruszanie bez piłki,
+- tworzenie linii podania,
+- rozumienie przestrzeni,
+- zmiana pozycji w zależności od sytuacji,
+- wejście w półprzestrzenie,
+- zachowanie w małych grach,
+- umiejętność cofnięcia do niższej strefy przy braku przewagi.
+
+### Pytania scoutingowe
+
+- Czy zawodnik rozumie przestrzeń?
+- Czy potrafi znaleźć wolny sektor?
+- Czy pomaga drużynie ruchem bez piłki?
+- Czy zmienia pozycję, gdy sytuacja tego wymaga?
+- Czy rozumie kiedy zejść do półprzestrzeni lub wrócić do strefy 2?
+
+### Sygnały ostrzegawcze
+
+- statyczność,
+- brak zmiany pozycji,
+- złe ustawienie względem piłki,
+- ciągłe wchodzenie w trudne pojedynki bez wsparcia,
+- brak rozwiązań w małych grach.
+
+### Dlaczego to ważne?
+
+Na wyższym poziomie samo przygotowanie motoryczne często nie wystarcza.
+
+Zawodnicy, którzy rozumieją przestrzeń i potrafią odpowiednio poruszać się bez piłki, szybciej adaptują się do piłki seniorskiej oraz lepiej funkcjonują w strukturze taktycznej zespołu.
