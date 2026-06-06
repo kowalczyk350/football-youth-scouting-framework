@@ -130,3 +130,42 @@ Zawodnicy, którzy rozumieją przestrzeń i potrafią odpowiednio poruszać się
 W piłce seniorskiej czas na decyzję jest bardzo ograniczony.
 
 Zawodnicy, którzy szybciej analizują sytuację i wybierają właściwe rozwiązania, znacznie łatwiej adaptują się do wyższego poziomu gry.
+---
+
+## 5. Potencjał motoryczny
+
+### Na co zwracać uwagę?
+
+* dynamika pierwszych metrów,
+* szybkość reakcji,
+* koordynacja ruchowa,
+* mobilność i balans ciała,
+* zdolność do gry w intensywności,
+* wytrzymałość meczowa,
+* powtarzalność sprintów,
+* odporność na kontakt fizyczny.
+
+### Pytania scoutingowe
+
+* Czy zawodnik ma motorykę adekwatną do swojej pozycji?
+* Jak wygląda jego dynamika na pierwszych 5–10 metrach?
+* Czy utrzymuje intensywność przez cały mecz?
+* Jak reaguje na wyższe tempo gry?
+* Czy jest gotowy fizycznie na przejście do seniora?
+
+### Sygnały ostrzegawcze
+
+* wolna reakcja na zmianę kierunku,
+* problemy z intensywnością po 60–70 minucie,
+* brak dynamiki w pojedynkach,
+* słaba koordynacja ruchowa,
+* trudności w kontakcie fizycznym,
+* ograniczona mobilność.
+
+### Dlaczego to ważne?
+
+W przejściu z CLJ do piłki seniorskiej różnice motoryczne są często większe niż techniczne lub taktyczne.
+
+Zawodnik może dominować w juniorach, ale bez odpowiedniej dynamiki, intensywności i odporności fizycznej często ma problem z adaptacją do wyższego poziomu.
+
+Motoryka zawsze musi być oceniana w kontekście pozycji i stylu gry — inne wymagania ma środkowy obrońca, inne skrzydłowy czy „6”.
