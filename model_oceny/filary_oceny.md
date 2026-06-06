@@ -169,3 +169,40 @@ W przejściu z CLJ do piłki seniorskiej różnice motoryczne są często więks
 Zawodnik może dominować w juniorach, ale bez odpowiedniej dynamiki, intensywności i odporności fizycznej często ma problem z adaptacją do wyższego poziomu.
 
 Motoryka zawsze musi być oceniana w kontekście pozycji i stylu gry — inne wymagania ma środkowy obrońca, inne skrzydłowy czy „6”.
+---
+
+## 6. Mentalność i zachowanie boiskowe
+
+### Na co zwracać uwagę?
+
+* reakcja po błędzie,
+* komunikacja z zespołem,
+* poziom koncentracji,
+* nastawienie do rywalizacji,
+* zaangażowanie bez piłki,
+* odporność psychiczna pod presją,
+* mowa ciała,
+* konsekwencja w działaniu.
+
+### Pytania scoutingowe
+
+* Jak zawodnik reaguje po nieudanej akcji?
+* Czy utrzymuje koncentrację przez cały mecz?
+* Czy bierze odpowiedzialność za grę?
+* Jak zachowuje się pod presją wyniku?
+* Czy wspiera organizację gry zespołu?
+
+### Sygnały ostrzegawcze
+
+* „wyłączenia” w meczu,
+* negatywna reakcja po błędzie,
+* obwinianie partnerów,
+* szybka frustracja,
+* brak intensywności po stracie piłki,
+* słaba komunikacja.
+
+### Dlaczego to ważne?
+
+Na wyższym poziomie różnice techniczne między zawodnikami często się zmniejszają.
+
+To mentalność, odporność na presję i stabilność zachowań bardzo często decydują o tym, kto adaptuje się do piłki seniorskiej, a kto zatrzymuje rozwój.
