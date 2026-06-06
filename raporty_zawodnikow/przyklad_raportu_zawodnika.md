@@ -2,32 +2,31 @@
 
 ## Informacje podstawowe
 
-* Imię i nazwisko: Zawodnik testowy
-* Rocznik: 2009
-* Pozycja: Środkowy pomocnik (8)
-* Klub:
-* Data obserwacji:
-* Przeciwnik:
-* Rozgrywki:
-* Wynik meczu:
-* Minuty gry:
+* Imię i nazwisko: Micha Resemerowski 
+* Rocznik: 2010
+* Pozycja: lewy obronca (3)
+* Klub:Pogoń Szczecin
+* Data obserwacji:6.06.2026
+* Przeciwnik:Stal Rzeszów
+* Rozgrywki:CLJ U 15 
+* Wynik meczu:4:2 2:0
+* Minuty gry:90
 
 ---
 
 ## 1. Technika
 
 ### Mocne strony
-
+lewa noga ,
+podnia,
+prowadzenie piłki,strzał na bramkę
 *
-
 ### Obszary do poprawy
-
+prawa noga,
+gra głową,
 *
-
 ### Ocena
-
-/10
-
+8/10
 ---
 
 ## 2. Taktyka i rozumienie gry
