@@ -2,7 +2,7 @@
 
 ## Informacje podstawowe
 
-* Imię i nazwisko: Micha Resemerowski 
+* Imię i nazwisko: Michał Resemerowski 
 * Rocznik: 2010
 * Pozycja: lewy obronca (3)
 * Klub:Pogoń Szczecin
