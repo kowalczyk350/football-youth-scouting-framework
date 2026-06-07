@@ -49,8 +49,6 @@ football-youth-scouting-framework/
 ├── skrypty_python/
 ├── templates/
 └── wizualizacje/
-```md id="4h0g5n"
-## Example Scouting Reports
 
 ---
 
@@ -92,6 +90,5 @@ Build a repeatable and scalable scouting framework for youth football player ide
 Created by **Kowalczyk350**
 Youth Football Scouting & Data-Informed Evaluation
 
-```
-```
+
 
