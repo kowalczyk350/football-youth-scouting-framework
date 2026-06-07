@@ -1,1 +1,0 @@
-Move observation process documentation
