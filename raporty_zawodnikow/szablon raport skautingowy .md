@@ -1,5 +1,5 @@
 # 📄 Raport scoutingowy – CLJ U15  
-## Pogoń Szczecin vs Stal Rzeszów
+## 
 
 ---
 
