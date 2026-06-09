@@ -87,9 +87,12 @@ Build a repeatable and scalable scouting framework for youth football player ide
 
 ## Author
 
-Created by **Kowalczyk350**
+
+Created by **Kowalczyk350**  
 Youth Football Scouting & Data-Informed Evaluation
+
 ![Struktura Roczników](wizualizacje/dist_rocznikow.png)
+
 
 
 
