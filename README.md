@@ -40,7 +40,7 @@ The scouting framework evaluates players across six key dimensions:
 ```txt
 football-youth-scouting-framework/
 │── README.md
-│── baza_zawodnikow.csv
+│── zawodnicy.csv
 │
 ├── analiza_danych/
 ├── documentation/
